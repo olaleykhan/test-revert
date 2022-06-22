@@ -1,0 +1,16 @@
+h1{
+  color:aquamarine;
+  background-color: bisque;
+  width: fit-content;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  padding: 10px 50px;
+  text-decoration: overline;
+}
+
+
+.categories li{
+  list-style-image: url('./images/gift-icon.svg');
+  /* list-style-position: inside; */
+}
